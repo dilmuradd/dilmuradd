@@ -4,13 +4,13 @@
 
 - 🌐 **Frontend Developer** with a passion for building interactive and user-friendly web applications.
 - 💡 Skilled in **React**, **Next.js**, **JavaScript**, **Tailwind CSS**, and more.
-- 🚀 Focused on delivering **responsive** and **Pixel Perfect** user interfaces.
+- 🚀 Focused on delivering **responsive** user interfaces.
 - 🎯 Continuously enhancing problem-solving skills on **Codewars**.
 - 📚 Always open to learning new technologies and contributing to the developer community.
 
 ### 🔧 Technologies & Tools
 - **Frontend Frameworks:** React, Next.js
-- **Styling:** Tailwind CSS, Chakra UI, SCSS, Emotion
+- **Styling:** Tailwind CSS, Chakra UI, SCSS,
 - **Design:** Figma, UI/UX Design Principles
 - **Deployment:** Vercel, GitHub Pages
 - **Code Practice:** Codewars Challenges
